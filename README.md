@@ -7,7 +7,7 @@
 - Projeto desenvolvido para **simular a página de cadastro de usuário** do Facebook;
 - Utilizei **Flexbox**, **Grid**, no arquivo de **configuração do tailwind** acrescentei **cores**, **spacing** e **tamanho de fonte**;
 - No desenvolvimento do projeto foi utilizado a metodologia **mobile first**, tendo o projeto **responsividade** para **celulares e desktop**;
-- Desenvolvido durante o curso [Tailwind CSS do básico ao avançado + Projetos]() com [Matheus Battist](https://github.com/matheusbattisti/).
+- Desenvolvido durante o curso [**Tailwind CSS do básico ao avançado + Projetos**](https://www.udemy.com/course/tailwind-css-do-basico-ao-avancado-com-projetos/) com [**Matheus Battist**](https://github.com/matheusbattisti/).
 
 ### 🌟 Tecnologias utilizadas
 
